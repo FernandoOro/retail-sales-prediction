@@ -15,7 +15,7 @@ The most significant finding of this analysis is the counter-intuitive selection
 - **R² Score**: 0.82 (Excellent for 55 records)
 - **Performance**: Outperforms Random Forest by +30 percentage points and Gradient Boosting by +40 percentage points.
 
-### Why Linear Regression? (The "Senior" Justification)
+### Why Linear Regression? 
 In a field often obsessed with complex algorithms, this project demonstrates the importance of the **Bias-Variance Trade-off**:
 
 1.  **Small Dataset Context**: After rigorous data cleaning (removing 50% duplicates to prevent data leakage), we are left with only 55 unique records.
